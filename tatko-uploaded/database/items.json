@@ -1,0 +1,6 @@
+[
+	{"name": "name1", "id": 0, "date": "date", "image": "photos/0.jpg", "price": 50},
+	{"name": "name2", "id": 1, "date": "date", "image": "photos/0.jpg", "price": 100},
+	{"name": "name3", "id": 2, "date": "date", "image": "photos/0.jpg", "price": 25},
+	{"name": "name4", "id": 3, "date": "date", "image": "photos/0.jpg", "price": 75}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id": 0,
+		"short": "short description of item 0",
+		"long":
+			"This is a longer and more in depth description of said item with id 0"
+	},
+	{
+		"id": 1,
+		"short": "short description of item 1",
+		"long":
+			"This is a longer and more in depth description of said item with id 1"
+	},
+	{
+		"id": 2,
+		"short": "short description of item 2",
+		"long":
+			"This is a longer and more in depth description of said item with id 2"
+	},
+	{
+		"id": 3,
+		"short": "short description of item 3",
+		"long":
+			"This is a longer and more in depth description of said item with id 3"
+	}
+]

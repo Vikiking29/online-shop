@@ -1,0 +1,38 @@
+[
+	{
+		"id": 0,
+		"types": {
+			"type1": "checked",
+			"type2": "non",
+			"type3": "non"
+		},
+		"price": 50
+	},
+	{
+		"id": 1,
+		"types": {
+			"type1": "checked",
+			"type2": "checked",
+			"type3": "non"
+		},
+		"price": 100
+	},
+	{
+		"id": 2,
+		"types": {
+			"type1": "non",
+			"type2": "checked",
+			"type3": "checked"
+		},
+		"price": 25
+	},
+	{
+		"id": 3,
+		"types": {
+			"type1": "non",
+			"type2": "non",
+			"type3": "checked"
+		},
+		"price": 75
+	}
+]
